@@ -1,0 +1,13 @@
+C:\Users\Khyun\OneDrive\바탕 화면\C# 개발\study01\study01\bin\Debug\netcoreapp3.1\study01.exe
+C:\Users\Khyun\OneDrive\바탕 화면\C# 개발\study01\study01\bin\Debug\netcoreapp3.1\study01.deps.json
+C:\Users\Khyun\OneDrive\바탕 화면\C# 개발\study01\study01\bin\Debug\netcoreapp3.1\study01.runtimeconfig.json
+C:\Users\Khyun\OneDrive\바탕 화면\C# 개발\study01\study01\bin\Debug\netcoreapp3.1\study01.runtimeconfig.dev.json
+C:\Users\Khyun\OneDrive\바탕 화면\C# 개발\study01\study01\bin\Debug\netcoreapp3.1\study01.dll
+C:\Users\Khyun\OneDrive\바탕 화면\C# 개발\study01\study01\bin\Debug\netcoreapp3.1\study01.pdb
+C:\Users\Khyun\OneDrive\바탕 화면\C# 개발\study01\study01\obj\Debug\netcoreapp3.1\study01.csprojAssemblyReference.cache
+C:\Users\Khyun\OneDrive\바탕 화면\C# 개발\study01\study01\obj\Debug\netcoreapp3.1\study01.AssemblyInfoInputs.cache
+C:\Users\Khyun\OneDrive\바탕 화면\C# 개발\study01\study01\obj\Debug\netcoreapp3.1\study01.AssemblyInfo.cs
+C:\Users\Khyun\OneDrive\바탕 화면\C# 개발\study01\study01\obj\Debug\netcoreapp3.1\study01.csproj.CoreCompileInputs.cache
+C:\Users\Khyun\OneDrive\바탕 화면\C# 개발\study01\study01\obj\Debug\netcoreapp3.1\study01.dll
+C:\Users\Khyun\OneDrive\바탕 화면\C# 개발\study01\study01\obj\Debug\netcoreapp3.1\study01.pdb
+C:\Users\Khyun\OneDrive\바탕 화면\C# 개발\study01\study01\obj\Debug\netcoreapp3.1\study01.genruntimeconfig.cache
