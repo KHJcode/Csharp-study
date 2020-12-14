@@ -70,5 +70,7 @@ namespace study02
 
       return report.ToString();
     }
+
+    public virtual void PerformMonthEndTransactions() { }
   }
 }
